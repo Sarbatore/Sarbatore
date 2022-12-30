@@ -15,11 +15,12 @@
 <details>
   <summary>Projects</summary>
   <ol>
-    <li><a href="#usage">Read Dead Confidential</a></li>
-    <li><a href="#roadmap">NiXCity Community</a></li>
-    <li><a href="#roadmap">My Shop</a></li>
+    <li><a href="https://discord.gg/PrQvNGzAaT">Read Dead Confidential</a></li>
+    <li><a href="https://discord.gg/uQM5jQe37U">NiXCity Community</a></li>
   </ol>
 </details>
+
+My SHOP:<a href="https://aide-serveur.fr/ressources/authors/sarbatore.157936/">My Shop</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
