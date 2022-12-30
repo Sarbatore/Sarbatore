@@ -71,9 +71,9 @@ Of course, no one template will serve all projects since your needs may be diffe
 [LUA-url]: https://nextjs.org/
 [Python]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB
 [Python-url]: https://reactjs.org/
-[JavaScript]: https://img.shields.io/badge/JavaScript-35495E?style=for-the-badge&logo=js&logoColor=4FC08D
+[JavaScript]: https://img.shields.io/badge/JavaScript-35495E?style=for-the-badge&logo=javascript&logoColor=4FC08D
 [JavaScript-url]: https://vuejs.org/
-[C++]: https://img.shields.io/badge/C++-DD0031?style=for-the-badge&logo=cpp&logoColor=white
+[C++]: https://img.shields.io/badge/C++-DD0031?style=for-the-badge&logo=c++&logoColor=white
 [C++-url]: https://angular.io/
 [C#]: https://img.shields.io/badge/CSharp-4A4A55?style=for-the-badge&logo=csharp&logoColor=FF3E00
 [C#-url]: https://svelte.dev/
