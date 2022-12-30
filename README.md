@@ -67,7 +67,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[LUA]: https://img.shields.io/badge/LUA-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[LUA]: https://img.shields.io/badge/LUA-000000?style=for-the-badge&logo=lua&logoColor=white
 [LUA-url]: https://nextjs.org/
 [Python]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [Python-url]: https://reactjs.org/
