@@ -1,12 +1,5 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 ## Presentation
 ### Knowledges
 * [![LUA][LUA]][LUA-url]
@@ -17,21 +10,14 @@
 * [![C++][C++]][C++-url]
 * [![C#][C#]][C#-url]
 
-## I'm currently:
-- 🌱 working on Red Dead Confidential (French RedM Server)
-- 💞️ developing publicly and collaborate with customers
-
-
+## Currently
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Projects</summary>
   <ol>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#usage">Read Dead Confidential</a></li>
+    <li><a href="#roadmap">NiXCity Community</a></li>
+    <li><a href="#roadmap">My Shop</a></li>
   </ol>
 </details>
 
