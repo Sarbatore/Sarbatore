@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 # Presentation
 
 French IT Student
@@ -11,7 +13,7 @@ Learnings: C++, C#
 - 💞️ developing publicly and collaborate with customers
 
 
-<a name="readme-top"></a>
+
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
