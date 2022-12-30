@@ -8,21 +8,14 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## Presentation
-
-French IT Student
-I’m 19
-LUA, Python, JavaScript
-Learnings: C++, C#
-
 ### Knowledges
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![LUA][Next.js]][Next-url]
+* [![Python][React.js]][React-url]
+* [![Javascript][Vue.js]][Vue-url]
+
+### Learnings
+* [![C++][Angular.io]][Angular-url]
+* [![C#][Svelte.dev]][Svelte-url]
 
 ## I'm currently:
 - 🌱 working on Red Dead Confidential (French RedM Server)
