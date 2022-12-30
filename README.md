@@ -42,7 +42,7 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[LUA]: https://img.shields.io/badge/LUA-FFFFFF?style=for-the-badge&logo=lua&logoColor=051E8B
+[LUA]: https://img.shields.io/badge/LUA-000000?style=for-the-badge&logo=lua&logoColor=051E8B
 [LUA-url]: https://nextjs.org/
 [Python]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=035DC5
 [Python-url]: https://reactjs.org/
@@ -50,5 +50,5 @@
 [JavaScript-url]: https://vuejs.org/
 [C++]: https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=035DC5
 [C++-url]: https://angular.io/
-[C#]: https://img.shields.io/badge/CSharp-FFFFFF?style=for-the-badge&logo=csharp&logoColor=713A8F
+[C#]: https://img.shields.io/badge/CSharp-000000?style=for-the-badge&logo=csharp&logoColor=713A8F
 [C#-url]: https://svelte.dev/
