@@ -1,5 +1,5 @@
 # Presentation
-Here's why:
+
 French IT Student
 I’m 19
 LUA, Python, JavaScript
