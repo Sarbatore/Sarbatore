@@ -48,7 +48,7 @@
 [Python-url]: https://reactjs.org/
 [JavaScript]: https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFE300
 [JavaScript-url]: https://vuejs.org/
-[C++]: https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=035DC5
+[C++]: https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=035DC5
 [C++-url]: https://angular.io/
 [C#]: https://img.shields.io/badge/CSharp-FFFFFF?style=for-the-badge&logo=csharp&logoColor=713A8F
 [C#-url]: https://svelte.dev/
