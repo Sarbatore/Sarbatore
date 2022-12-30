@@ -1,6 +1,10 @@
 <a name="readme-top"></a>
 
 ## Presentation
+- IT Student
+- 19 yo
+- French
+- Game Modder/Developer
 ### Knowledges
 * [![LUA][LUA]][LUA-url]
 * [![Python][Python]][Python-url]
@@ -15,12 +19,12 @@
 <details>
   <summary>Projects</summary>
   <ol>
-    <li><a href="https://discord.gg/PrQvNGzAaT">Read Dead Confidential</a></li>
-    <li><a href="https://discord.gg/uQM5jQe37U">NiXCity Community</a></li>
+    <li><a href="https://discord.gg/PrQvNGzAaT">🤠 Read Dead Confidential</a></li>
+    <li><a href="https://discord.gg/uQM5jQe37U">🤖 NiXCity Community</a></li>
   </ol>
 </details>
 
-My SHOP:<a href="https://aide-serveur.fr/ressources/authors/sarbatore.157936/">My Shop</a>
+<a href="https://aide-serveur.fr/ressources/authors/sarbatore.157936/">🛒 My SHOP</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
