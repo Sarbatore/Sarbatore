@@ -6,7 +6,7 @@ French IT Student
 I’m 19
 LUA, Python, JavaScript
 Learnings: C++, C#
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 # I'm currently:
 - 🌱 working on Red Dead Confidential (French RedM Server)
@@ -68,12 +68,6 @@ Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -84,8 +78,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
