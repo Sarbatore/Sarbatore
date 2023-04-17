@@ -4,7 +4,8 @@
 - IT Student
 - 19 yo
 - French
-- Game Modder/Developer
+- Modder/ Software & Game Developer
+
 ### Knowledges
 * [![LUA][LUA]][LUA-url]
 * [![Python][Python]][Python-url]
