@@ -18,10 +18,9 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Projects</summary>
-  <ol>
-    <li><a href="https://discord.gg/PrQvNGzAaT">🤠 Read Dead Confidential</a></li>
-    <li><a href="https://discord.gg/uQM5jQe37U">🤖 NiXCity Community</a></li>
-  </ol>
+  🤠 Working on the RedM server of <a href="https://www.youtube.com/@Anas54">Anas</a>
+  🤖 Working on my <a href="https://">Portfolio</a>
+  🤖 Working on some personal/public <a href="">projects</a>in Web, Software and Modding
 </details>
 
 <a href="https://aide-serveur.fr/ressources/authors/sarbatore.157936/">🛒 My SHOP</a>
