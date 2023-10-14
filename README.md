@@ -7,13 +7,13 @@
 
 ### Knowledges
 ![PHP]
-* [![LUA][LUA]]
-* [![Python][Python]]
-* [![JavaScript][JavaScript]]
+![LUA]
+![Python]
+![JavaScript]
 
 ### Learnings
-* [![C++][C++]]
-* [![C#][C#]]
+![C++]
+![C#]
 
 ## Currently
 <!-- TABLE OF CONTENTS -->
