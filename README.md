@@ -6,7 +6,7 @@
 - Web & Game Developer
 
 ### Knowledges
-* [![PHP]]
+* ![PHP]
 * [![LUA][LUA]]
 * [![Python][Python]]
 * [![JavaScript][JavaScript]]
