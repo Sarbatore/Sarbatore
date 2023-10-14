@@ -10,6 +10,8 @@
 ![LUA]
 ![Python]
 ![JavaScript]
+![HTML]
+![CSS]
 
 ### Learnings
 ![C++]
@@ -30,5 +32,7 @@
 [LUA]: https://img.shields.io/badge/LUA-000000?style=for-the-badge&logo=lua&logoColor=051E8B
 [Python]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=035DC5
 [JavaScript]: https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFE300
+[HTML]: https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html&logoColor=051E8B
+[CSS]: https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=051E8B
 [C++]: https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=035DC5
 [C#]: https://img.shields.io/badge/CSharp-000000?style=for-the-badge&logo=csharp&logoColor=713A8F
