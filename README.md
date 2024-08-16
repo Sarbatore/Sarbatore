@@ -22,8 +22,7 @@
 - 🤠 Working on the RedM server of <a href="https://www.youtube.com/@Anas54">Anas</a>
 - 🌐 Working on my <a href="https://">Portfolio</a>
 - ⚒️ Working on some personal/public <a href="https://">projects</a> in Web, Software and Modding
-
-<a href="https://aide-serveur.fr/ressources/authors/sarbatore.157936/">🛒 My SHOP</a>
+- My <a href="https://discord.gg/fxttPtFD66">discord server</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
