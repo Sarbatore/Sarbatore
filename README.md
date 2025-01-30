@@ -1,37 +1,29 @@
 <a name="readme-top"></a>
 
 ## Presentation
-- IT Student
-- French
-- Web & Game Developer
 
-### Knowledges
+## The languages ​​I use
 ![PHP]
 ![LUA]
+![Dart]
 ![Python]
 ![JavaScript]
-![HTML]
-![CSS]
-
-### Learnings
+![Java]
 ![C++]
 ![C#]
-
-## Currently
-<!-- TABLE OF CONTENTS -->
-- 🤠 Working on the RedM server of <a href="https://www.youtube.com/@Anas54">Anas</a>
-- 🌐 Working on my <a href="https://">Portfolio</a>
-- ⚒️ Working on some personal/public <a href="https://">projects</a> in Web, Software and Modding
-- My <a href="https://discord.gg/fxttPtFD66">discord server</a>
+![HTML]
+![CSS]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[PHP]: https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=051E8B
-[LUA]: https://img.shields.io/badge/LUA-000000?style=for-the-badge&logo=lua&logoColor=051E8B
-[Python]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=035DC5
-[JavaScript]: https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFE300
-[HTML]: https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html&logoColor=051E8B
-[CSS]: https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css&logoColor=051E8B
-[C++]: https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=035DC5
-[C#]: https://img.shields.io/badge/CSharp-000000?style=for-the-badge&logo=csharp&logoColor=713A8F
+[PHP]: https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&color=fff
+[LUA]: https://img.shields.io/badge/LUA-000000?style=for-the-badge&logo=lua&logoColor=000078&color=fff
+[Python]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&color=fff
+[JavaScript]: https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&color=fff
+[HTML]: https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&color=fff
+[CSS]: https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&color=fff&logoColor=006db7
+[C++]: https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&color=fff&logoColor=005c9a
+[C#]: https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=sharp&color=fff&logoColor=7d2991
+[Java]: https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=CoffeeScript&logoColor=4d7997&color=fff
+[Dart]: https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=2cb7f6&color=fff
