@@ -17,10 +17,11 @@ I build **scripts for RedM and GMod**, experiment with **Unreal Engine 5 game de
 
 **Languages**  
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)  
+![php](https://img.shields.io/badge/php-%23777BB4?logo=php&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-00599C?logo=dart&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-%230175C2?logo=dart&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-283593?logo=jdk&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)  
 ![C](https://img.shields.io/badge/C-283593?logo=c&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
