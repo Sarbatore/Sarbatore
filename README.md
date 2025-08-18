@@ -1,29 +1,44 @@
-<a name="readme-top"></a>
+# 👋 Hi, I'm Sarbatore
 
-## Presentation
+🎓 Computer Science student passionate about **software development** and **game programming**.  
+I build **scripts for RedM and GMod**, experiment with **Unreal Engine 5 game development**, and also work on **web projects** and **software applications**.
 
-## The languages ​​I use
-![PHP]
-![LUA]
-![Dart]
-![Python]
-![JavaScript]
-![Java]
-![C++]
-![C#]
-![HTML]
-![CSS]
+---
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 🚀 What I Do
+- 🎮 **Scripts & Mods**: RedM, GMod  
+- 🕹️ **Game Development**: personal and jam projects with **Unreal Engine 5**  
+- 🌐 **Web Development**: front-end & back-end  
+- 💻 **Software & Tools**: utilities, apps, and experimental projects  
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[PHP]: https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&color=fff
-[LUA]: https://img.shields.io/badge/LUA-000000?style=for-the-badge&logo=lua&logoColor=000078&color=fff
-[Python]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&color=fff
-[JavaScript]: https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&color=fff
-[HTML]: https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&color=fff
-[CSS]: https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&color=fff&logoColor=006db7
-[C++]: https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&color=fff&logoColor=005c9a
-[C#]: https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=sharp&color=fff&logoColor=7d2991
-[Java]: https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=CoffeeScript&logoColor=4d7997&color=fff
-[Dart]: https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=2cb7f6&color=fff
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-00599C?logo=dart&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-283593?logo=jdk&logoColor=white)  
+![C](https://img.shields.io/badge/C-283593?logo=c&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+
+---
+
+## 📊 GitHub Stats
+
+![Sarbatore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarbatore&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarbatore&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sarbatore&theme=tokyonight&hide_border=true)  
+
+---
+
+## 📫 Contact Me
+[![Discord](https://img.shields.io/badge/Discord-%40Sarbatore-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/439014976200638464)  
+
+---
+
+⭐ If you like my projects, consider leaving a **star** to support my work!
