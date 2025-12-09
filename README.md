@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Sarbatore
 
-🎓 Computer Science student passionate about **software development** and **game programming**.  
+🎓 French IT graduated passionate of programming.  
 I build **scripts for RedM and GMod**, experiment with **Unreal Engine 5 game development**, and also work on **web projects** and **software applications**.
 
 ---
 
 ## 🚀 What I Do
-- 🎮 **Scripts & Mods**: RedM, GMod  
-- 🕹️ **Game Development**: personal and jam projects with **Unreal Engine 5**  
-- 🌐 **Web Development**: front-end & back-end  
+- 🎮 **Scripts & Mods**: RedM, GMod
+- 🕹️ **Game Development**: personal and jam projects with **Unreal Engine 5**
+- 🌐 **Web Development**: full-stack applications
 - 💻 **Software & Tools**: utilities, apps, and experimental projects  
 
 ---
@@ -16,14 +16,15 @@ I build **scripts for RedM and GMod**, experiment with **Unreal Engine 5 game de
 ## 🛠️ Tech Stack
 
 **Languages**  
-![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)  
 ![php](https://img.shields.io/badge/php-%23777BB4?logo=php&logoColor=white)  
+![C#](https://img.shields.io/badge/.NET-512BD4?logo=dotnet#&logoColor=white)  
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-%230175C2?logo=dart&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)  
-![C](https://img.shields.io/badge/C-283593?logo=c&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)    
+![C](https://img.shields.io/badge/C-283593?logo=c&logoColor=white)   
 
 ---
 
