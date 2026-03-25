@@ -1,46 +1,72 @@
-# 👋 Hi, I'm Sarbatore
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Sarbatore&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Web%2FMobile%20Full-Stack%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-🎓 French IT graduated passionate of programming.  
-I build **scripts for RedM and GMod**, experiment with **Unreal Engine 5 game development**, and also work on **web projects** and **software applications**.
+## 🧠 My Focus Areas
+- Web/Mobile Full-Stack Development
+- Video Game Development/Modding
+- Research & Reverse-Engineering
+- Open Source Contribution
 
----
 
-## 🚀 What I Do
-- 🎮 **Scripts & Mods**: RedM, GMod
-- 🕹️ **Game Development**: personal and jam projects with **Unreal Engine 5**
-- 🌐 **Web Development**: full-stack applications
-- 💻 **Software & Tools**: utilities, apps, and experimental projects  
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+<p align="center">
+  <a href="https://github.com/Sarbatore">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sarbatore&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Sarbatore's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Sarbatore&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Sarbatore's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Sarbatore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sarbatore's GitHub Trophies" />
+</p>
 
----
+## 🛠️ Languages & Tools
 
-## 🛠️ Tech Stack
+> ## Programming Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="48" height="48" style="margin: 4px;" />  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48" style="margin: 4px;" /> 
+</p>
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)  
-![php](https://img.shields.io/badge/php-%23777BB4?logo=php&logoColor=white)  
-![C#](https://img.shields.io/badge/.NET-512BD4?logo=dotnet#&logoColor=white)  
-![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-%230175C2?logo=dart&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)    
-![C](https://img.shields.io/badge/C-283593?logo=c&logoColor=white)   
+> ## Frontend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="48" height="48" style="margin: 4px;" />
+</p>
 
----
+> ## Backend
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="48" height="48" style="margin: 4px;" /> 
+  <img src="https://www.vectorlogo.zone/logos/symfony/symfony-ar21.svg" alt="Symfony" width="48" height="48" style="margin: 4px;" /> 
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> 
+</p>
 
-## 📊 GitHub Stats
+> ## Database
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> 
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> 
+</p>
 
-![Sarbatore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarbatore&show_icons=true&theme=tokyonight)  
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://discordapp.com/users/439014976200638464" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-%230077B5.svg?style=for-the-badge&logo=discord&logoColor=white&color=5661f5" alt="Sarbatore's Discord"/></a> 
+  <a href="https://www.youtube.com/@sarbatore" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=fe0032" alt="Sarbatore's YouTube"/></a> 
+  <a href="https://www.sarbatore.fr" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-%23FF0000.svg?style=for-the-badge&logo=Web&logoColor=white&color=000000" alt="Sarbatore's Website"/></a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarbatore&layout=compact&theme=tokyonight)  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sarbatore&theme=tokyonight&hide_border=true)  
-
----
-
-## 📫 Contact Me
-[![Discord](https://img.shields.io/badge/Discord-%40Sarbatore-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/439014976200638464)  
-
----
-
-⭐ If you like my projects, consider leaving a **star** to support my work!
