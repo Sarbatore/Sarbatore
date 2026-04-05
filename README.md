@@ -60,7 +60,7 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://discordapp.com/users/439014976200638464" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-%230077B5.svg?style=for-the-badge&logo=discord&logoColor=white&color=5661f5" alt="Sarbatore's Discord"/></a> 
   <a href="https://www.youtube.com/@sarbatore" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&color=fe0032" alt="Sarbatore's YouTube"/></a> 
   <a href="https://www.sarbatore.fr" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-%23FF0000.svg?style=for-the-badge&logo=Web&logoColor=white&color=000000" alt="Sarbatore's Website"/></a>
